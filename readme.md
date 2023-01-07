@@ -7,10 +7,10 @@ This package is tested using a computer system: with Ubuntu 18.04.6 LTS and Pyto
 
 
 ## Detail steps:
-- 1. Train/Test baseline methods and the FKNet+.
+1. Train/Test baseline methods and the FKNet+.
 -Execute main.ipynb Jupyter notebook.
 
-- 2. Visualize the recognition performances.
+2. Visualize the recognition performances.
 -Execute matlab/ROC_model_select.m using MATLAB.
 
 
