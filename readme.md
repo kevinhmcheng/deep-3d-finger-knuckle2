@@ -15,7 +15,7 @@ This package is tested using a computer system: with Ubuntu 18.04.6 LTS and Pyto
 
 
 ## References
-- [1] Kevin H. M. Cheng, Xu Cheng, and Guoying Zhao. Advancing 3D Finger Knuckle Recognition via Deep Feature Learning. 
+- [1] Kevin H. M. Cheng, Xu Cheng, and Guoying Zhao. Advancing 3D Finger Knuckle Recognition via Deep Feature Learning. arXiv preprint arXiv:2301.02934.
 - [2] Kevin H. M. Cheng, and Ajay Kumar. Deep Feature Collaboration for Challenging 3D Finger Knuckle Recognition. IEEE Transactions on Information Forensics and Security (TIFS), 16, pp.1158-1173, 2021.
 
 
